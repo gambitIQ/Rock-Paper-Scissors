@@ -1,4 +1,4 @@
-#CS110A Assignment: Rock-Paper-Scissors Program by Zamambo Mkhize 
+# Assignment: Rock-Paper-Scissors Program by Zamambo Mkhize 
 
 import random  
 
